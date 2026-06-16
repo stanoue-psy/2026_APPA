@@ -1,10 +1,10 @@
 # Exploring Mechanisms of Suicidal Ideation in Adolescents: Structural Equation Modeling Using DirectLiNGAM
 
-**Shin-ichi Tanoue** <sup>*1</sup>
-**Ryo Ishii** <sup>*1</sup>
+**Shin-ichi Tanoue** <sup>*1</sup>, 
+**Ryo Ishii** <sup>*1</sup>, 
 **Minako Ito** <sup>*2</sup>
 
-Nara University of Education<sup>*1</sup>
+Nara University of Education<sup>*1</sup>, 
 Kobe Women's University<sup>*2</sup>
 
 ## Abstract
